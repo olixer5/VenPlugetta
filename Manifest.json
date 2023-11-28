@@ -1,0 +1,14 @@
+{
+    "name": "WhoReadThat",
+    "description": "View who read any message",
+    "authors": [
+        {
+            "name": "555oli"
+         
+        }
+    ],
+    "main": "src/",
+    "vendetta": {
+        "icon": "ic_messages"
+    }
+}
