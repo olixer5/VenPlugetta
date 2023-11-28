@@ -7,7 +7,7 @@
          
         }
     ],
-    "main": "src/",
+    "main": "whoreadthat.ts",
     "vendetta": {
         "icon": "ic_messages"
     }
